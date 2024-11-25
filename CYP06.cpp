@@ -14,8 +14,7 @@
 #include <string.h>
 #include "corrector.h"
 //Funciones publicas del proyecto
-/***************************************
-	DICCIONARIO: Esta funcion crea el diccionar
+/******
 	
 
 
