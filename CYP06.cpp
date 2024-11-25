@@ -130,7 +130,7 @@ void ClonaPalabras(char* szPalabraLeida, char szPalabrasSugeridas[][TAMTOKEN], i
 	iNumSugeridas = 0;
 	for (int i = 0; i < strlen(szPalabraLeida); i++) {
 		char palabraModificada[TAMTOKEN];
-		strcpy_s(palabraModificada, TAMTOKEN, szPalabraLeida);
+
 		
 
 	}
