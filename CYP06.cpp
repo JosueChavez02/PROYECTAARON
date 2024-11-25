@@ -128,7 +128,6 @@ void ListaCandidatas(
 // Función ClonaPalabras
 void ClonaPalabras(char* szPalabraLeida, char szPalabrasSugeridas[][TAMTOKEN], int& iNumSugeridas) {
 	iNumSugeridas = 0;
-	for (int i = 0; i < strlen(szPalabraLeida); i++) {
 		
 
 		
