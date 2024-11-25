@@ -132,6 +132,6 @@ void ClonaPalabras(char* szPalabraLeida, char szPalabrasSugeridas[][TAMTOKEN], i
 		char palabraModificada[TAMTOKEN];
 		strcpy_s(palabraModificada, TAMTOKEN, szPalabraLeida);
 		memmove(&palabraModificada[i], &palabraModificada[i + 1], strlen(szPalabraLeida) - i);
-		strcpy_s(szPalabrasSugeridas[iNumSugeridas++], TAMTOKEN, palabraModificada);
+
 	}
 }
