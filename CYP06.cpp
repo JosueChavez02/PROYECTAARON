@@ -71,7 +71,7 @@ void Diccionario(char* szNombre, char szPalabras[][TAMTOKEN], int iEstadisticas[
 	int		iEstadisticas[],					//Lista de las frecuencias de las palabras
 	int		iNumElementos,						//Numero de elementos en el diccionario
 	char	szListaFinal[][TAMTOKEN],			//Lista final de palabras a sugerir
-	int		iPeso[],							//Peso de las p							
+	int		i							
 **************************************/
 void ListaCandidatas(
 	char szPalabrasSugeridas[][TAMTOKEN],
