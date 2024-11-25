@@ -13,8 +13,7 @@
 #include "stdafx.h"
 #include <string.h>
 #include "corrector.h"
-//Funciones publicas del proyecto
-/******
+
 	
 
 
