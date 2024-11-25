@@ -15,9 +15,8 @@
 #include "corrector.h"
 //Funciones publicas del proyecto
 /***************************************
-	DICCIONARIO: Esta funcion crea el diccionario completo
-	char *	szNombre				:	Nombre del archivo de donde se sacaran las palabras del diccionario
-	char	szPalabras[][TAMTOKEN]	:	Arreglo con las palabras completas del diccionario
+	DICCIONARIO: Esta funcion crea el diccionar
+	
 
 
 **************************************/
